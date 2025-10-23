@@ -38,7 +38,7 @@ Switch to drawing mode from design mode
 ## OUTPUT
 
 
-![AUTODESK 9_page-0001](https://github.com/user-attachments/assets/d0e4e7e8-b707-414d-931d-9ef2c29db1ce)
+![PRANAV AUTODESK 9_page-0001](https://github.com/user-attachments/assets/59527723-9bc8-43b4-a45f-e7cf75fa1994)
 
 
 ## RESULT:
