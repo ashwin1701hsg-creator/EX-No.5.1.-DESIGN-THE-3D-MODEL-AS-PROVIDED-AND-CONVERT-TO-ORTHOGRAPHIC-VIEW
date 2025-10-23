@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![PRANAV KIRTHIK 9999_page-0001](https://github.com/user-attachments/assets/a3c1264f-5512-4b24-b1a9-261300c0d687)
 
 
 ## RESULT:
