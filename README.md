@@ -38,8 +38,7 @@ Switch to drawing mode from design mode
 ## OUTPUT
 
 
-![PRANAV AUTODESK 9_page-0001](https://github.com/user-attachments/assets/59527723-9bc8-43b4-a45f-e7cf75fa1994)
-
+![PRANAV KIRTHIK 9999_page-0001](https://github.com/user-attachments/assets/a3c1264f-5512-4b24-b1a9-261300c0d687)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
